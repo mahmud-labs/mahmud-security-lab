@@ -45,8 +45,8 @@ mahmud-security-lab/
 ## Contact
 
 - Website: [mahmudlabs.com](https://mahmudlabs.com)
-- LinkedIn: [your LinkedIn URL]
-- Email: [your professional email]
+- LinkedIn: [Ishtiyak Mahmud](www.linkedin.com/in/ishtiyakmahmud)
+- Email: ishtiyak@mahmudlabs.com
 
 ---
 
